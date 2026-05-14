@@ -27,6 +27,7 @@ We welcome corrections, additions, and translations. Please see [CONTRIBUTING.md
 수정, 추가, 번역 기여를 환영합니다. 자세한 내용은 [CONTRIBUTING.md](./CONTRIBUTING.md)를 참고해 주세요.
 
 ## Repository Structure / 저장소 구조
+```
 digital-democracy-100/
 ├── _config.yml              # Jekyll & Just the Docs configuration
 ├── index.md                 # Main landing page (bilingual)
@@ -39,6 +40,7 @@ digital-democracy-100/
 ├── CONTRIBUTING.md
 ├── CNAME                    # Custom domain
 └── LICENSE                  # CC BY 4.0
+```
 
 ## Related Links / 관련 링크
 
