@@ -1,0 +1,56 @@
+title: Digital Democracy 100
+description: 100 Features of Parti's Digital Democracy — A Decade in Review
+url: "https://100-democracy.parti.coop"
+baseurl: ""
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false
+
+# Navigation
+nav_enabled: true
+heading_anchors: true
+
+# Aux links (top right of every page)
+aux_links:
+  "빠띠 / Parti":
+    - "https://parti.coop"
+  "GitHub":
+    - "https://github.com/parti-coop/digital-democracy-100"
+
+aux_links_new_tab: true
+
+# Footer
+footer_content: 'Made by <a href="https://parti.coop">Parti Cooperative</a>. Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.'
+
+# Back-to-top button
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
