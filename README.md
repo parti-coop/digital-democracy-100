@@ -12,7 +12,7 @@
 
 Parti is a digital agora for civic dialogue and action. Over the past decade, we've been building digital public squares where citizens gather, dialogue, act, and decide together. This document records the 100 features and programs that have grown from that decade of practice.
 
-빠띠는 시민의 대화와 행동을 위한 디지털 광장입니다. 지난 10년간 빠띠는 시민이 모이고, 대화하고, 행동하고, 결정하는 디지털 광장을 만들어왔습니다. 이 문서는 그 10년 동안 우리가 만들어온 100가지 기능과 프로그램의 기록입니다.
+빠띠는 시민들이 대화하고 행동하는 디지털 시민 광장입니다. 지난 10년간 빠띠는 시민이 모이고, 대화하고, 행동하고, 결정하는 디지털 광장을 만들어왔습니다. 이 문서는 그 10년 동안 우리가 만들어온 100가지 기능과 프로그램의 기록입니다. 이미 만들어진 것, 지금 만들고 있는 것, 그리고 앞으로 만들어가야 할 것을 함께 기록합니다.
 
 ## A Living Document / 살아있는 문서
 
