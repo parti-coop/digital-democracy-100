@@ -203,4 +203,4 @@ A feature that verifies and records large-scale citizen decision outcomes on blo
 
 [← English Home](../){: .btn .btn-outline }
 [Previous: Fact-Checking](../04-factcheck/){: .btn .btn-outline }
-[Next: Data & Infrastructure →](../06-data/){: .btn .btn-outline }
+[Next: Civic Technology →](../06-civic-tech/){: .btn .btn-outline }
