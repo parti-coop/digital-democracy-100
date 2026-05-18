@@ -103,7 +103,7 @@ Real-world changes made by civic technology.
 {: .label .label-green }
 {: .label .label-purple }
 
-The most internationally recognized civic-tech case from Code for Korea during the 2020 COVID-19 response. Used the government's public mask supply data to build a citizen-facing app, and proposed the Personal Safety Number model balancing privacy with public interest. Recognized by the Minister's Award from Korea's Ministry of Science and ICT.
+The most internationally recognized civic-tech case from the Code for Korea network during the 2020 COVID-19 response. Proposed and led by Parti chair Ohyeon Kweon within the Code for Korea network, the project used the government's public mask supply data to build a citizen-facing app and proposed the Personal Safety Number model balancing privacy with public interest. Recognized by the Minister's Award from Korea's Ministry of Science and ICT.
 
 ### 9. Ansim Hospital · Ansim-i
 
@@ -111,7 +111,7 @@ The most internationally recognized civic-tech case from Code for Korea during t
 {: .label .label-green }
 {: .label .label-purple }
 
-One of Korea's first civic hacking projects in 2012. A tool allowing citizens to directly check safe hospital information, later evolved into Ansim-i. A starting point of Korea's civic-tech movement.
+One of Korea's first civic hacking projects, started in 2012 within the Code Namu (Code Tree) community. A tool allowing citizens to directly check safe hospital information, led by Parti chair Ohyeon Kweon and later evolved into Ansim-i within the Code for Korea network. Recorded as a starting point of Korea's civic-tech movement.
 
 ### 10. Urban Forest Data with Citizens
 
