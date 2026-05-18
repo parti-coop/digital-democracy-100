@@ -203,4 +203,4 @@ AI 시대의 민주주의를 묻는 시민의회. "AI 시대에 모두의 민주
 
 [← 한국어 메인으로](../){: .btn .btn-outline }
 [이전: 팩트체크](../04-factcheck/){: .btn .btn-outline }
-[다음: 데이터와 인프라 →](../06-data/){: .btn .btn-outline }
+[다음: 시민 기술 →](../06-civic-tech/){: .btn .btn-outline }
