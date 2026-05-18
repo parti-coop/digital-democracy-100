@@ -112,7 +112,7 @@ The next challenges in the age of disinformation.
 ⬜ Future Direction
 {: .label }
 
-A system that tracks how disinformation is created, what paths it travels along, and how it mutates across communities. A proactive response model that goes beyond after-the-fact verification to identify disinformation propagation paths in advance and alert citizens. Parti's distinctive approach becomes possible when the citizen fact-checker community, Campaigns.do data, and citizen data trusts converge.
+A system that tracks how disinformation is created, what paths it travels along, and how it mutates across communities. A proactive response model that goes beyond after-the-fact verification to identify disinformation propagation paths in advance and alert citizens. 
 
 ### 10. AI-Assisted Fact-Checking
 
