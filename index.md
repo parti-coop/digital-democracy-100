@@ -61,7 +61,7 @@ This is not a static catalog. It is a living document.
 | 3 | 📣 [Citizen Campaigns](./en/03-campaigns/) | [시민 캠페인](./ko/03-campaigns/) |
 | 4 | ✅ [Fact-Checking](./en/04-factcheck/) | [팩트체크](./ko/04-factcheck/) |
 | 5 | 🏛️ [Governance & Citizen Assemblies](./en/05-governance/) | [거버넌스와 시민의회](./ko/05-governance/) |
-| 6 | 📊 [Cuvuc Technology](./en/06-civic-tech/) | [데이터와 인프라](./ko/06-data/) |
+| 6 | 📊 [Civic Technology](./en/06-civic-tech/) | [데이터와 인프라](./ko/06-data/) |
 | 7 | 🏗️ [Platform Builder & Org Infrastructure](./en/07-builder/) | [플랫폼 빌더와 조직 인프라](./ko/07-builder/) |
 | 8 | 🎖️ [Participation Incentives & Membership](./en/08-membership/) | [참여 보상과 멤버십](./ko/08-membership/) |
 | 9 | 🎓 [Education & Capacity Building](./en/09-education/) | [교육과 역량 강화](./ko/09-education/) |
