@@ -54,19 +54,27 @@ This is not a static catalog. It is a living document.
 
 ## The 11 Categories · 11개 영역
 
-| # | English | 한국어 |
-|---|---------|--------|
-| 1 | 🗳️ [Voting Modules](./en/01-voting/) | [투표 모듈](./ko/01-voting/) |
-| 2 | 💬 [Public Forums & Dialogue](./en/02-dialogue/) | [공론장과 토론](./ko/02-dialogue/) |
-| 3 | 📣 [Citizen Campaigns](./en/03-campaigns/) | [시민 캠페인](./ko/03-campaigns/) |
-| 4 | ✅ [Fact-Checking](./en/04-factcheck/) | [팩트체크](./ko/04-factcheck/) |
-| 5 | 🏛️ [Governance & Citizen Assemblies](./en/05-governance/) | [거버넌스와 시민의회](./ko/05-governance/) |
-| 6 | 📊 [Civic Technology](./en/06-civic-tech/) | [시민 기술](./ko/06-civic-tech/) |
-| 7 | 🏗️ [Platform Builder & Org Infrastructure](./en/07-builder/) | [플랫폼 빌더와 조직 인프라](./ko/07-builder/) |
-| 8 | 🎖️ [Participation Incentives & Membership](./en/08-membership/) | [참여 보상과 멤버십](./ko/08-membership/) |
-| 9 | 🎓 [Education & Capacity Building](./en/09-education/) | [교육과 역량 강화](./ko/09-education/) |
-| 10 | 🤝 [Civic Participation & Solidarity](./en/10-civic-solidarity/) | [시민 참여 확대와 연대](./ko/10-civic-solidarity/) |
-| 11 | 🤖 [AI & Future Technology](./en/11-ai-future/) | [AI와 미래 기술](./ko/11-ai-future/) |
+100가지로 시작했는데, 정리하다 보니 그보다 더 많은 것을 만들어왔다는 사실을 발견했습니다. 그 모두를 기록합니다.
+
+We started with the idea of 100, but in the process of cataloging we discovered we had built more than that. We record all of it.
+
+| # | English · 한국어 | Items |
+|---|------------------|:-----:|
+| 1 | 🗳️ [Voting Modules](./en/01-voting/) · [투표 모듈](./ko/01-voting/) | 11 |
+| 2 | 💬 [Public Forums & Dialogue](./en/02-dialogue/) · [공론장과 토론](./ko/02-dialogue/) | 15 |
+| 3 | 📣 [Citizen Campaigns](./en/03-campaigns/) · [시민 캠페인](./ko/03-campaigns/) | 12 |
+| 4 | ✅ [Fact-Checking](./en/04-factcheck/) · [팩트체크](./ko/04-factcheck/) | 11 |
+| 5 | 🏛️ [Governance & Citizen Assemblies](./en/05-governance/) · [거버넌스와 시민의회](./ko/05-governance/) | 19 |
+| 6 | 🛠️ [Civic Technology](./en/06-civic-tech/) · [시민 기술](./ko/06-civic-tech/) | 14 |
+| 7 | 🏗️ [Platform Builder & Org Infrastructure](./en/07-builder/) · [플랫폼 빌더와 조직 인프라](./ko/07-builder/) | TBD |
+| 8 | 🎖️ [Participation Incentives & Membership](./en/08-membership/) · [참여 보상과 멤버십](./ko/08-membership/) | TBD |
+| 9 | 🎓 [Education & Capacity Building](./en/09-education/) · [교육과 역량 강화](./ko/09-education/) | TBD |
+| 10 | 🤝 [Civic Participation & Solidarity](./en/10-civic-solidarity/) · [시민 참여 확대와 연대](./ko/10-civic-solidarity/) | TBD |
+| 11 | 🤖 [AI & Future Technology](./en/11-ai-future/) · [AI와 미래 기술](./ko/11-ai-future/) | TBD |
+
+Current total: **82+ items across 6 categories.** Five categories remaining.
+
+현재까지: **6개 영역 82개 항목.** 남은 영역 5개.
 
 ---
 
