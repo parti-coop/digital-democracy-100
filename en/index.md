@@ -48,7 +48,7 @@ Corrections, additions, and suggestions are welcome through [GitHub Issues](http
 3. [📣 Citizen Campaigns](./03-campaigns/)
 4. [✅ Fact-Checking](./04-factcheck/)
 5. [🏛️ Governance & Citizen Assemblies](./05-governance/)
-6. [📊 Data & Infrastructure](./06-data/)
+6. [📊 Civic Technology](./06-civic-tech/)
 7. [🏗️ Platform Builder & Org Infrastructure](./07-builder/)
 8. [🎖️ Participation Incentives & Membership](./08-membership/)
 9. [🎓 Education & Capacity Building](./09-education/)
