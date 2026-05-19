@@ -52,7 +52,7 @@ permalink: /ko/
 3. [📣 시민 캠페인](./03-campaigns/)
 4. [✅ 팩트체크](./04-factcheck/)
 5. [🏛️ 거버넌스와 시민의회](./05-governance/)
-6. [🛠️ Civic Technology](./06-civic-tech/)
+6. [🛠️ 시민 기술](./06-civic-tech/)
 7. [🏗️ 플랫폼 빌더와 조직 인프라](./07-builder/)
 8. [🎖️ 참여 보상과 멤버십](./08-membership/)
 9. [🎓 교육과 역량 강화](./09-education/)
