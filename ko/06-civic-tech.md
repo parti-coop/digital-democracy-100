@@ -159,6 +159,6 @@ AI 모델이 학습하는 데이터의 소유와 출처가 점점 중요해지�
 
 ---
 
-[← 한국어 메인으로](../){: .btn .btn-outline }
-[이전: 거버넌스와 시민의회](../05-governance/){: .btn .btn-outline }
-[다음: 플랫폼 빌더와 조직 인프라 →](../07-builder/){: .btn .btn-outline }
+[← 한국어 메인으로](/ko/){: .btn .btn-outline }
+[이전: 거버넌스와 시민의회](/ko/05-governance.html){: .btn .btn-outline }
+[다음: 플랫폼 빌더와 조직 인프라 →](/ko/07-builder.html){: .btn .btn-outline }

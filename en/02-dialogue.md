@@ -161,6 +161,6 @@ Automatic summarization of key arguments, points of agreement, and contested iss
 
 ---
 
-[← English Home](../){: .btn .btn-outline }
-[Previous: Voting Modules](../01-voting/){: .btn .btn-outline }
-[Next: Citizen Campaigns →](../03-campaigns/){: .btn .btn-outline }
+[← English Home](/en/){: .btn .btn-outline }
+[Previous: Voting Modules](/en/01-voting.html){: .btn .btn-outline }
+[Next: Citizen Campaigns →](/en/03-campaigns.html){: .btn .btn-outline }

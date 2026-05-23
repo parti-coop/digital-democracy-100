@@ -110,6 +110,6 @@ nav_order: 10
 
 ---
 
-[← 한국어 메인으로](../){: .btn .btn-outline }
-[이전: 교육과 역량 강화](../09-education/){: .btn .btn-outline }
-[다음: AI와 미래 기술 →](../11-ai-future/){: .btn .btn-outline }
+[← 한국어 메인으로](/ko/){: .btn .btn-outline }
+[이전: 교육과 역량 강화](/ko/09-education.html){: .btn .btn-outline }
+[다음: AI와 미래 기술 →](/ko/11-ai-future.html){: .btn .btn-outline }

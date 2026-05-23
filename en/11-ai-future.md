@@ -144,5 +144,5 @@ In the AI era, that belief does not change. Who governs the digital world, and h
 
 ---
 
-[← English Home](../){: .btn .btn-outline }
-[Previous: Civic Participation & Solidarity](../10-civic-solidarity/){: .btn .btn-outline }
+[← English Home](/en/){: .btn .btn-outline }
+[Previous: Civic Participation & Solidarity](/en/10-civic-solidarity.html){: .btn .btn-outline }

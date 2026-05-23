@@ -130,6 +130,6 @@ Automatic tracking and visualization of fact-check impact — how widely verifie
 
 ---
 
-[← English Home](../){: .btn .btn-outline }
-[Previous: Citizen Campaigns](../03-campaigns/){: .btn .btn-outline }
-[Next: Governance & Citizen Assemblies →](../05-governance/){: .btn .btn-outline }
+[← English Home](/en/){: .btn .btn-outline }
+[Previous: Citizen Campaigns](/en/03-campaigns.html){: .btn .btn-outline }
+[Next: Governance & Citizen Assemblies →](/en/05-governance.html){: .btn .btn-outline }

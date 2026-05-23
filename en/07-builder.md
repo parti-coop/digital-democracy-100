@@ -118,4 +118,10 @@ Consulting for the digital transformation of nonprofits, cooperatives, and civic
 ⭐ UFOfactory Initiative
 {: .label .label-blue }
 
-UFOfactory has accumulated digital infrastructure partnerships with 1,200+ nonprofits, cooperatives, and civic organizations since 2013 (as of 2017). The broadest digital-transformation partnership asset in Korea's nonprofit sector. This experience became the foundation of MixOn and Parti'
+UFOfactory has accumulated digital infrastructure partnerships with 1,200+ nonprofits, cooperatives, and civic organizations since 2013 (as of 2017). The broadest digital-transformation partnership asset in Korea's nonprofit sector. This experience became the foundation of MixOn and Parti's digital services.
+
+---
+
+[← English Home](/en/){: .btn .btn-outline }
+[Previous: Civic Technology](/en/06-civic-tech.html){: .btn .btn-outline }
+[Next: Participation Incentives & Membership →](/en/08-membership.html){: .btn .btn-outline }

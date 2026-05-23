@@ -144,5 +144,5 @@ AI 시대에도 그 믿음은 변하지 않습니다. 디지털 세계는 누가
 
 ---
 
-[← 한국어 메인으로](../){: .btn .btn-outline }
-[이전: 시민 참여 확대와 연대](../10-civic-solidarity/){: .btn .btn-outline }
+[← 한국어 메인으로](/ko/){: .btn .btn-outline }
+[이전: 시민 참여 확대와 연대](/ko/10-civic-solidarity.html){: .btn .btn-outline }

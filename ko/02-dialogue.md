@@ -161,6 +161,6 @@ nav_order: 2
 
 ---
 
-[← 한국어 메인으로](../){: .btn .btn-outline }
-[이전: 투표 모듈](../01-voting/){: .btn .btn-outline }
-[다음: 시민 캠페인 →](../03-campaigns/){: .btn .btn-outline }
+[← 한국어 메인으로](/ko/){: .btn .btn-outline }
+[이전: 투표 모듈](/ko/01-voting.html){: .btn .btn-outline }
+[다음: 시민 캠페인 →](/ko/03-campaigns.html){: .btn .btn-outline }

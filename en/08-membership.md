@@ -144,6 +144,6 @@ Experiments in structures where citizens themselves decide on rewards and govern
 
 ---
 
-[← English Home](../){: .btn .btn-outline }
-[Previous: Platform Builder & Organizational Infrastructure](../07-builder/){: .btn .btn-outline }
-[Next: Education & Capacity Building →](../09-education/){: .btn .btn-outline }
+[← English Home](/en/){: .btn .btn-outline }
+[Previous: Platform Builder & Organizational Infrastructure](/en/07-builder.html){: .btn .btn-outline }
+[Next: Education & Capacity Building →](/en/09-education.html){: .btn .btn-outline }

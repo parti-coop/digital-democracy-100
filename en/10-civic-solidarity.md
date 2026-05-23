@@ -110,6 +110,6 @@ Beyond a technical gathering of civic hackers, a network connecting activists wh
 
 ---
 
-[← English Home](../){: .btn .btn-outline }
-[Previous: Education & Capacity Building](../09-education/){: .btn .btn-outline }
-[Next: AI & Future Technology →](../11-ai-future/){: .btn .btn-outline }
+[← English Home](/en/){: .btn .btn-outline }
+[Previous: Education & Capacity Building](/en/09-education.html){: .btn .btn-outline }
+[Next: AI & Future Technology →](/en/11-ai-future.html){: .btn .btn-outline }

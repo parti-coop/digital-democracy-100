@@ -102,5 +102,5 @@ nav_order: 1
 
 ---
 
-[← 한국어 메인으로](../){: .btn .btn-outline }
-[다음: 공론장과 토론 →](../02-dialogue/){: .btn .btn-outline }
+[← 한국어 메인으로](/ko/){: .btn .btn-outline }
+[다음: 공론장과 토론 →](/ko/02-dialogue.html){: .btn .btn-outline }

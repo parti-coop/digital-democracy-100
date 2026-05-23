@@ -102,5 +102,5 @@ Weighted voting where the cost of additional votes for one option grows quadrati
 
 ---
 
-[← English Home](../){: .btn .btn-outline }
-[Next: Public Forums & Dialogue →](../02-dialogue/){: .btn .btn-outline }
+[← English Home](/en/){: .btn .btn-outline }
+[Next: Public Forums & Dialogue →](/en/02-dialogue.html){: .btn .btn-outline }

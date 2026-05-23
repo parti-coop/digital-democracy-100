@@ -144,6 +144,6 @@ Automatic tracking and visualization of the policy changes, media exposure, and 
 
 ---
 
-[← English Home](../){: .btn .btn-outline }
-[Previous: Public Forums & Dialogue](../02-dialogue/){: .btn .btn-outline }
-[Next: Fact-Checking →](../04-factcheck/){: .btn .btn-outline }
+[← English Home](/en/){: .btn .btn-outline }
+[Previous: Public Forums & Dialogue](/en/02-dialogue.html){: .btn .btn-outline }
+[Next: Fact-Checking →](/en/04-factcheck.html){: .btn .btn-outline }

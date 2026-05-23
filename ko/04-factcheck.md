@@ -130,6 +130,6 @@ AI가 팩트체커의 검증 작업을 보조하는 도구. 자료 검색, 출�
 
 ---
 
-[← 한국어 메인으로](../){: .btn .btn-outline }
-[이전: 시민 캠페인](../03-campaigns/){: .btn .btn-outline }
-[다음: 거버넌스와 시민의회 →](../05-governance/){: .btn .btn-outline }
+[← 한국어 메인으로](/ko/){: .btn .btn-outline }
+[이전: 시민 캠페인](/ko/03-campaigns.html){: .btn .btn-outline }
+[다음: 거버넌스와 시민의회 →](/ko/05-governance.html){: .btn .btn-outline }

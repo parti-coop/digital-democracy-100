@@ -165,6 +165,6 @@ A systematic education framework — for an era when AI has entered deeply into 
 
 ---
 
-[← English Home](../){: .btn .btn-outline }
-[Previous: Participation Incentives & Membership](../08-membership/){: .btn .btn-outline }
-[Next: Civic Participation & Solidarity →](../10-civic-solidarity/){: .btn .btn-outline }
+[← English Home](/en/){: .btn .btn-outline }
+[Previous: Participation Incentives & Membership](/en/08-membership.html){: .btn .btn-outline }
+[Next: Civic Participation & Solidarity →](/en/10-civic-solidarity.html){: .btn .btn-outline }

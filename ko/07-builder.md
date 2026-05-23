@@ -150,6 +150,6 @@ UFOfactory가 2013년부터 누적해온 1,200개 이상의 비영리·협동조
 
 ---
 
-[← 한국어 메인으로](../){: .btn .btn-outline }
-[이전: 시민 기술](../06-civic-tech/){: .btn .btn-outline }
-[다음: 참여 보상과 멤버십 →](../08-membership/){: .btn .btn-outline }
+[← 한국어 메인으로](/ko/){: .btn .btn-outline }
+[이전: 시민 기술](/ko/06-civic-tech.html){: .btn .btn-outline }
+[다음: 참여 보상과 멤버십 →](/ko/08-membership.html){: .btn .btn-outline }

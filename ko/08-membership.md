@@ -144,6 +144,6 @@ nav_order: 8
 
 ---
 
-[← 한국어 메인으로](../){: .btn .btn-outline }
-[이전: 플랫폼 빌더와 조직 인프라](../07-builder/){: .btn .btn-outline }
-[다음: 교육과 역량 강화 →](../09-education/){: .btn .btn-outline }
+[← 한국어 메인으로](/ko/){: .btn .btn-outline }
+[이전: 플랫폼 빌더와 조직 인프라](/ko/07-builder.html){: .btn .btn-outline }
+[다음: 교육과 역량 강화 →](/ko/09-education.html){: .btn .btn-outline }

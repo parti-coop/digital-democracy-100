@@ -159,6 +159,6 @@ As ownership and provenance of AI training data become increasingly important, r
 
 ---
 
-[← English Home](../){: .btn .btn-outline }
-[Previous: Governance & Citizen Assemblies](../05-governance/){: .btn .btn-outline }
-[Next: Platform Builder & Organizational Infrastructure →](../07-builder/){: .btn .btn-outline }
+[← English Home](/en/){: .btn .btn-outline }
+[Previous: Governance & Citizen Assemblies](/en/05-governance.html){: .btn .btn-outline }
+[Next: Platform Builder & Organizational Infrastructure →](/en/07-builder.html){: .btn .btn-outline }

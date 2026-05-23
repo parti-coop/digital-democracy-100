@@ -165,6 +165,6 @@ AI가 일상과 민주주의에 깊이 들어온 시대에, 시민이 AI를 비�
 
 ---
 
-[← 한국어 메인으로](../){: .btn .btn-outline }
-[이전: 참여 보상과 멤버십](../08-membership/){: .btn .btn-outline }
-[다음: 시민 참여 확대와 연대 →](../10-civic-solidarity/){: .btn .btn-outline }
+[← 한국어 메인으로](/ko/){: .btn .btn-outline }
+[이전: 참여 보상과 멤버십](/ko/08-membership.html){: .btn .btn-outline }
+[다음: 시민 참여 확대와 연대 →](/ko/10-civic-solidarity.html){: .btn .btn-outline }

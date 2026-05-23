@@ -201,6 +201,6 @@ A feature that verifies and records large-scale citizen decision outcomes on blo
 
 ---
 
-[← English Home](../){: .btn .btn-outline }
-[Previous: Fact-Checking](../04-factcheck/){: .btn .btn-outline }
-[Next: Civic Technology →](../06-civic-tech/){: .btn .btn-outline }
+[← English Home](/en/){: .btn .btn-outline }
+[Previous: Fact-Checking](/en/04-factcheck.html){: .btn .btn-outline }
+[Next: Civic Technology →](/en/06-civic-tech.html){: .btn .btn-outline }
