@@ -43,17 +43,17 @@ Corrections, additions, and suggestions are welcome through [GitHub Issues](http
 
 ## The 11 Categories
 
-1. [🗳️ Voting Modules](./01-voting/)
-2. [💬 Public Forums & Dialogue](./02-dialogue/)
-3. [📣 Citizen Campaigns](./03-campaigns/)
-4. [✅ Fact-Checking](./04-factcheck/)
-5. [🏛️ Governance & Citizen Assemblies](./05-governance/)
-6. [🛠️ Civic Technology](./06-civic-tech/)
-7. [🏗️ Platform Builder & Org Infrastructure](./07-builder/)
-8. [🎖️ Participation Incentives & Membership](./08-membership/)
-9. [🎓 Education & Capacity Building](./09-education/)
-10. [🤝 Civic Participation & Solidarity](./10-civic-solidarity/)
-11. [🤖 AI & Future Technology](./11-ai-future/)
+1. [🗳️ Voting Modules](./01-voting.html)
+2. [💬 Public Forums & Dialogue](./02-dialogue.html)
+3. [📣 Citizen Campaigns](./03-campaigns.html)
+4. [✅ Fact-Checking](./04-factcheck.html)
+5. [🏛️ Governance & Citizen Assemblies](./05-governance.html)
+6. [🛠️ Civic Technology](./06-civic-tech.html)
+7. [🏗️ Platform Builder & Org Infrastructure](./07-builder.html)
+8. [🎖️ Participation Incentives & Membership](./08-membership.html)
+9. [🎓 Education & Capacity Building](./09-education.html)
+10. [🤝 Civic Participation & Solidarity](./10-civic-solidarity.html)
+11. [🤖 AI & Future Technology](./11-ai-future.html)
 
 ---
 
