@@ -7,7 +7,7 @@ nav_order: 7
 # 🏗️ Platform Builder & Organizational Infrastructure
 {: .no_toc }
 
-The public squares Parti operates directly, and the builder tools that help other organizations create their own squares. Parti and its sister business UFOfactory have not kept their infrastructure closed, sharing it with countless nonprofits, cooperatives, and civic organizations. The result is an ecosystem of digital citizen squares growing simultaneously inside and outside Parti.
+The squares Parti operates directly, and the builder tools that help other organizations build their own squares. Parti and its sister business UFOfactory have not kept their infrastructure closed — they have shared it with countless nonprofits, cooperatives, and civic organizations. The result is an ecosystem of digital citizen squares growing both inside and outside Parti.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -20,7 +20,7 @@ The public squares Parti operates directly, and the builder tools that help othe
 ## Parti's Own Operating Infrastructure
 {: .text-delta }
 
-Shared infrastructure underlying the public squares Parti directly provides to citizens.
+The shared infrastructure underpinning the squares Parti provides directly to citizens.
 
 ### 1. Integrated Site Builder
 
@@ -29,71 +29,80 @@ Shared infrastructure underlying the public squares Parti directly provides to c
 ⭐ Parti Original
 {: .label .label-purple }
 
-Four sites Parti operates directly — Campaigns.do, Citizen Dialogue, Civic Tech, and CitizenPass — run on shared user accounts and integrated operational infrastructure. A citizen who signs up once can use all of Parti's squares, and Parti can generate synergy across squares. (DemosX and Townhall run on separate systems.)
+The four sites Parti operates directly — Campaigns, Citizen Dialogue, Civic Technology, and CitizenPass — run on a common user account and integrated operating infrastructure. A citizen who signs up once can use all of Parti's squares, and Parti can create synergy across them. (DemosX and Townhall are operated as separate systems.)
 
 [Parti Campaigns](https://campaigns.do){: .btn .btn-outline .fs-3 }
 
-### 2. Member & Account Management
+### 2. Member & Account Management System
 
 ✅ Implemented
 {: .label .label-green }
 
-A membership system supporting registration, profile management, permissions, and group/organization affiliations. Distinguishes individual members from organizational members, and regular members from operators.
+A membership system supporting sign-up, information management, permission settings, and group/organization affiliation. It distinguishes individual members from organizational members, and general members from administrators.
 
-### 3. Integrated Donation & Sponsorship System
+### 3. Integrated Donation & Giving System
 
 ✅ Implemented
 {: .label .label-green }
 
-A system handling campaign donations, organizational support, recurring donations, and one-time gifts on a single platform. Designed so that citizens' campaign participation can naturally flow into ongoing support.
+A system that handles campaign support, organizational support, recurring donations, and one-time giving on a single platform. Designed so that a citizen's participation in a campaign can flow naturally into support.
 
 ### 4. Email & Newsletter Delivery
 
 ✅ Implemented
 {: .label .label-green }
 
-A system that automatically informs campaign participants of progress, and lets organizations send newsletters to members. Carries forward the spirit of Stibee — Korea's leading nonprofit email platform that UFOfactory once incubated and spun off.
+A system that automatically notifies campaign participants of progress and lets organizations send newsletters to members. It carries on the spirit of Stibee, Korea's leading nonprofit email platform, which was spun off during the UFOfactory era.
 
 ### 5. Data Download & Statistics
 
 ✅ Implemented
 {: .label .label-green }
 
-Functions for downloading voting results, discussion data, and member lists as CSV, Excel, or PDF. Lets operators freely analyze and use the data from their own square.
+A feature for downloading voting results, discussion data, member lists, and more in CSV, Excel, and PDF formats. It lets operators freely analyze and use the data of their own squares.
 
-### 6. Permission Management
+### 6. Permission Management System
 
 ✅ Implemented
 {: .label .label-green }
 
-A system for fine-grained permission management across various roles — organizations, groups, organizers, and regular members. Multiple organizations and gatherings can coexist within one platform while maintaining their own autonomy.
+A system for managing finely-divided permissions across various roles — organizations, groups, organizers, general members. Multiple organizations and gatherings can coexist within one platform, each with its own autonomy.
 
 ---
 
 ## Builder Tools for Other Organizations
 {: .text-delta }
 
-Tools Parti and UFOfactory have released — as open source or platform — so other organizations can build their own squares.
+Tools through which Parti and UFOfactory have opened their own infrastructure as open source and platforms, so other organizations can build their own squares too.
 
-### 7. MixOn
+### 7. UFOfactory — Public-Interest Technology Development
 
 ✅ Implemented
 {: .label .label-green }
 ⭐ UFOfactory Initiative
 {: .label .label-blue }
 
-An appropriate-technology solution operated by Parti's sister business UFOfactory, helping nonprofits, cooperatives, and community organizations build their own squares. Provides integrated campaign sites, community platforms, and data-collection tools — from planning through operations. Examples running on MixOn include: Neighborhood Civic Wiki (Gyeonggi Civic Activity Support Center), Digital Seed Support Program (Seoul Community Chest), Feminism With Men, Domini village public square, and the 21% Club.
+UFOfactory, Parti's sister business, is where public-interest technology, solutions, and services are developed directly. Since 2013, it has researched and developed the digital tools that nonprofits, cooperatives, and civic organizations need, and operated an incubation model that spins off and transfers proven solutions. The appropriate-technology solution Mixon is also developed and operated by UFOfactory. While Parti takes on the citizen square in the domain of democracy, UFOfactory takes on public-interest technology development — the two sister businesses growing the public-interest technology ecosystem together.
 
-[MixOn](https://mixon.io){: .btn .btn-outline .fs-3 }
+### 8. Mixon
 
-### 8. DemosX Open Source Platform
+✅ Implemented
+{: .label .label-green }
+⭐ UFOfactory Initiative
+{: .label .label-blue }
+
+An appropriate-technology solution operated by Parti's sister business UFOfactory, letting nonprofits, cooperatives, and community organizations build their own squares directly. It provides campaign sites, community platforms, data collection tools, and more — integrated from planning to operation. Dongnaebangne Public-Interest Wiki (Gyeonggi Center for Public Interest Activity Support), the Digital Priming Support Program (Community Chest of Seoul), Feminism with Men, Domini Village Forum, and the 21% Club all run on Mixon.
+
+[Mixon](https://mixon.io){: .btn .btn-outline .fs-3 }
+
+### 9. DemosX Open-Source Platform
 
 ✅ Implemented
 {: .label .label-green }
 ⭐ Parti Original
 {: .label .label-purple }
 
-Parti's own citizen-collaboration platform DemosX, released as open source — any government, local government, or institution can build their own citizen-collaboration platform with it. With 200+ public forums of operational experience and the operations guide openly available, institutions don't need to build from scratch but can adopt and develop a validated model. (Covered in more detail in Category 5, Governance.)
+DemosX, the citizen-government collaboration platform Parti developed itself, is released as open source — so any government, local authority, or institution can build its own citizen-collaboration platform. With 200+ public forums of operating experience and the operating guide released alongside, anyone can take a proven model and develop it rather than starting from scratch. (Covered in more detail in Category 5, Governance.)
 
 [DemosX](https://demosx.org){: .btn .btn-outline .fs-3 }
 
@@ -102,23 +111,44 @@ Parti's own citizen-collaboration platform DemosX, released as open source — a
 ## Event Formats & Methodologies
 {: .text-delta }
 
-How Parti and UFOfactory have built digital infrastructure together with other organizations.
+How Parti and UFOfactory have built other organizations' digital infrastructure together with them.
 
-### 9. Nonprofit Digital Transformation Consulting
+### 10. Nonprofit Digital Transformation Consulting
 
 ✅ Implemented
 {: .label .label-green }
 
-Consulting for the digital transformation of nonprofits, cooperatives, and civic organizations, designing and operating together. Provides the technology needed on the ground — from planning to operations — in an integrated way.
+Consulting that designs and operates the digital transformation of nonprofits, cooperatives, and civic organizations together with them. It provides the technology the field needs, integrated from planning to operation.
 
-### 10. 1,200+ Nonprofits Digital Infrastructure Experience
+### 11. Experience Building Digital Infrastructure for 1,200+ Nonprofits
 
 ✅ Implemented
 {: .label .label-green }
 ⭐ UFOfactory Initiative
 {: .label .label-blue }
 
-UFOfactory has accumulated digital infrastructure partnerships with 1,200+ nonprofits, cooperatives, and civic organizations since 2013 (as of 2017). The broadest digital-transformation partnership asset in Korea's nonprofit sector. This experience became the foundation of MixOn and Parti's digital services.
+The experience UFOfactory has accumulated since 2013, building digital infrastructure with more than 1,200 nonprofits, cooperatives, and civic organizations (as of 2017). The broadest digital transformation partnership asset in Korea's nonprofit sector. This experience became the foundation of Mixon and Parti's integrated infrastructure.
+
+---
+
+## Future Directions
+{: .text-delta }
+
+The next leap for Parti's infrastructure.
+
+### 12. Integrated API Infrastructure
+
+⬜ Future Direction
+{: .label }
+
+An open API infrastructure through which all of Parti's squares and tools can connect freely with external systems — so other organizations can use Parti's citizen data, campaign, and voting features within their own systems.
+
+### 13. Integrated Citizen Membership System
+
+⬜ Future Direction
+{: .label }
+
+A system for integrated management of memberships inside and outside Parti, and across other organizations — so a citizen who belongs to multiple organizations can have an integrated civic experience.
 
 ---
 
