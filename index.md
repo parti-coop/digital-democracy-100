@@ -60,17 +60,17 @@ We started with the idea of 100, but in the process of cataloging we discovered 
 
 | # | English · 한국어 | Items |
 |---|------------------|:-----:|
-| 1 | 🗳️ [Voting Modules](./en/01-voting/) · [투표 모듈](./ko/01-voting/) | 11 |
-| 2 | 💬 [Public Forums & Dialogue](./en/02-dialogue/) · [공론장과 토론](./ko/02-dialogue/) | 15 |
-| 3 | 📣 [Citizen Campaigns](./en/03-campaigns/) · [시민 캠페인](./ko/03-campaigns/) | 12 |
-| 4 | ✅ [Fact-Checking](./en/04-factcheck/) · [팩트체크](./ko/04-factcheck/) | 11 |
-| 5 | 🏛️ [Governance & Citizen Assemblies](./en/05-governance/) · [거버넌스와 시민의회](./ko/05-governance/) | 19 |
-| 6 | 🛠️ [Civic Technology](./en/06-civic-tech/) · [시민 기술](./ko/06-civic-tech/) | 14 |
-| 7 | 🏗️ [Platform Builder & Org Infrastructure](./en/07-builder/) · [플랫폼 빌더와 조직 인프라](./ko/07-builder/) | 13 |
-| 8 | 🎖️ [Participation Incentives & Membership](./en/08-membership/) · [참여 보상과 멤버십](./ko/08-membership/) | 12 |
-| 9 | 🎓 [Education & Capacity Building](./en/09-education/) · [교육과 역량 강화](./ko/09-education/) | 15 |
-| 10 | 🤝 [Civic Participation & Solidarity](./en/10-civic-solidarity/) · [시민 참여 확대와 연대](./ko/10-civic-solidarity/) | 10 |
-| 11 | 🤖 [AI & Future Technology](./en/11-ai-future/) · [AI와 미래 기술](./ko/11-ai-future/) | 13 |
+| 1 | 🗳️ [Voting Modules](./en/01-voting.html) · [투표 모듈](./ko/01-voting.html) | 11 |
+| 2 | 💬 [Public Forums & Dialogue](./en/02-dialogue.html) · [공론장과 토론](./ko/02-dialogue.html) | 15 |
+| 3 | 📣 [Citizen Campaigns](./en/03-campaigns.html) · [시민 캠페인](./ko/03-campaigns.html) | 12 |
+| 4 | ✅ [Fact-Checking](./en/04-factcheck.html) · [팩트체크](./ko/04-factcheck.html) | 11 |
+| 5 | 🏛️ [Governance & Citizen Assemblies](./en/05-governance.html) · [거버넌스와 시민의회](./ko/05-governance.html) | 19 |
+| 6 | 🛠️ [Civic Technology](./en/06-civic-tech.html) · [시민 기술](./ko/06-civic-tech.html) | 14 |
+| 7 | 🏗️ [Platform Builder & Org Infrastructure](./en/07-builder.html) · [플랫폼 빌더와 조직 인프라](./ko/07-builder.html) | 13 |
+| 8 | 🎖️ [Participation Incentives & Membership](./en/08-membership.html) · [참여 보상과 멤버십](./ko/08-membership.html) | 12 |
+| 9 | 🎓 [Education & Capacity Building](./en/09-education.html) · [교육과 역량 강화](./ko/09-education.html) | 15 |
+| 10 | 🤝 [Civic Participation & Solidarity](./en/10-civic-solidarity.html) · [시민 참여 확대와 연대](./ko/10-civic-solidarity.html) | 10 |
+| 11 | 🤖 [AI & Future Technology](./en/11-ai-future.html) · [AI와 미래 기술](./ko/11-ai-future.html) | 13 |
 
 **Total: 145 features and programs across 11 categories.**
 
