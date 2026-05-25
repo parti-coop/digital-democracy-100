@@ -119,7 +119,7 @@ A system that tracks how disinformation is created, what paths it travels along,
 ⬜ Future Direction
 {: .label }
 
-AI tools that assist fact-checkers in their verification work. AI automates evidence search, source verification, and similar-case recommendations, reducing the workload of citizen fact-checkers. The direction is AI assisting citizens' verdicts, not AI making verdicts.
+AI tools that assist fact-checkers in their verification work. AI automates evidence search, source verification, and similar-case recommendations, reducing the workload of citizen fact-checkers. The direction is AI assisting citizens' verdicts, not AI making verdicts. (Also covered in Category 11, AI & Future Technology.)
 
 ### 11. Fact-Check Impact Tracking
 
