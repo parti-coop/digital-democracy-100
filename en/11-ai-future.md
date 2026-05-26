@@ -42,7 +42,7 @@ Parti's work to let citizens decide together how AI is used.
 ✅ Implemented
 {: .label .label-green }
 
-A citizens' assembly where citizens themselves ask and debate the question of democracy in the AI era. Through the lecture series "Asking Everyone's Democracy Again in the AI Era" and citizen dialogue, citizens deliberate together on what AI should mean for them. (Also covered in Category 5, Governance.)
+A citizens' assembly where citizens themselves ask and debate the question of democracy in the AI era. Through the lecture series "Asking Everyone's Democracy Again in the AI Era" and the "AI Idea-thon for Workers and Workplaces," citizens deliberate together on what AI should mean for citizens and workers. (Also covered in Category 5, Governance.)
 
 [AI Democracy Citizen Questions](https://talks.campaigns.do/goals/aidemocracy){: .btn .btn-outline .fs-3 }
 
@@ -111,7 +111,7 @@ A feature that provides the proposal at the starting point of a debate as both a
 ⭐ Parti Original
 {: .label .label-purple }
 
-A feature that uses AI to classify, summarize, and extract category patterns from thousands to tens of thousands of citizen opinions, enabling citizens themselves to identify agendas. Already operating on the National Cohesion Platform, Ten Million Connections, and more. The direction is AI assisting citizen deliberation, not AI making verdicts. (Covered in detail in Category 5, Governance; the limits and boundaries of this feature are addressed in item 17.)
+A feature that uses AI to classify, summarize, and extract category patterns from thousands to tens of thousands of citizen opinions, enabling citizens themselves to identify agendas. Representative cases include the Presidential Committee for National Cohesion's "National Cohesion for All," where over 4,215 citizen proposals were sorted into 6 areas, and "Ten Million Connections," where 788 citizen opinions were organized into 9 areas — with the analysis results feeding back into expert review, citizen panel deliberation, and policy development. The direction is AI assisting citizen deliberation, not AI making verdicts. (Covered in detail in Category 5, Governance; the limits and boundaries of this feature are addressed in item 17.)
 
 ### 9. Trustworthy Deliberation Summary Reports
 
