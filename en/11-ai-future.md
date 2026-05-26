@@ -37,37 +37,44 @@ These three principles are why Parti treats AI as a question of democracy rather
 
 Parti's work to let citizens decide together how AI is used.
 
-### 1. AI Democracy Citizens' Assembly
+### 1. AI Democracy Citizen Dialogue
 
 ✅ Implemented
 {: .label .label-green }
 
-A citizens' assembly where citizens themselves ask and debate the question of democracy in the AI era. Through the lecture series "Asking Everyone's Democracy Again in the AI Era" and the "AI Idea-thon for Workers and Workplaces," citizens deliberate together on what AI should mean for citizens and workers. (Also covered in Category 5, Governance.)
+A public forum where citizens themselves ask and talk through the question of democracy in the AI era. Through the lecture series "Asking Everyone's Democracy Again in the AI Era" and the gathering of citizen questions, citizens deliberate together on what AI should mean for them. A starting point toward a full citizens' assembly (item 20), where a sortition-selected citizen panel deliberates. (Also covered in Category 5, Governance.)
 
 [AI Democracy Citizen Questions](https://talks.campaigns.do/goals/aidemocracy){: .btn .btn-outline .fs-3 }
 
-### 2. Bringing Citizen Voices to National AI Policy
+### 2. AI Democracy Citizen Lab
+
+✅ Implemented
+{: .label .label-green }
+
+A space where citizens and workers work hands-on with AI to generate ideas. Through the "AI Idea-thon for Workers and Workplaces," citizens experiment directly with how they might use and reshape AI as it enters workplaces and daily life. (Also covered in Category 5, Governance.)
+
+### 3. Bringing Citizen Voices to National AI Policy
 
 ✅ Implemented
 {: .label .label-green }
 
 Through its work on the AI Democracy Division of the Presidential Council on National Artificial Intelligence Strategy, Parti has brought citizens' perspectives into AI policy-making. It proposes — on the policy stage — the principle that the power to control AI must belong to citizens, and the need for the digital public forums that make this possible.
 
-### 3. AI Agenda-Finding Public Forums
+### 4. AI Agenda-Finding Public Forums
 
 ✅ Implemented
 {: .label .label-green }
 
 Public forums where citizens themselves surface and debate the questions that arise as AI enters workplaces and daily life. On timely themes such as "AI for Workers and Workplaces," citizens' concerns and hopes around AI are turned into agendas.
 
-### 4. AI-Based One-on-One In-Depth Dialogue Model
+### 5. AI-Based One-on-One In-Depth Dialogue Model
 
 ✅ Implemented
 {: .label .label-green }
 
 An attempt that combines AI with the model of connecting two citizens of the most differing views for in-depth one-on-one dialogue. On the one-on-one dialogue methodology Parti has refined through Star Talk and Korea Talks, it designs a digital dialogue model where — using AI — more citizens can participate free of constraints of time and space. In the Ministry of Unification's "AI Platform-Based Social Dialogue" project, Parti leads the design of this model as the only citizen-collaboration platform organization.
 
-### 5. AI-Based Public Deliberation Model
+### 6. AI-Based Public Deliberation Model
 
 ✅ Implemented
 {: .label .label-green }
@@ -88,14 +95,14 @@ Even AI features that look scattered become clear once placed under these two br
 
 **Opinion-Assistance System** — features that help individual citizens develop their own opinions and express them more clearly.
 
-### 6. Similar-Opinion Comparison & Opinion-Development Nudge
+### 7. Similar-Opinion Comparison & Opinion-Development Nudge
 
 ⬜ Future Direction
 {: .label }
 
 A feature that, when a citizen submits an opinion, compares it with opinions already gathered — showing summaries and trends of similar and differing views — and on that basis nudges the citizen to develop the opinion a step further. It helps citizens who participate asynchronously still grasp one another's thinking fully and refine their own opinion more clearly.
 
-### 7. Plain-Language Summary & Visualization of Proposals
+### 8. Plain-Language Summary & Visualization of Proposals
 
 ⬜ Future Direction
 {: .label }
@@ -104,37 +111,37 @@ A feature that provides the proposal at the starting point of a debate as both a
 
 **Deliberation-Assistance System** — features that help large numbers of citizens understand one another's perspectives and develop the discussion step by step.
 
-### 8. AI-Based Large-Scale Citizen Opinion Analysis
+### 9. AI-Based Large-Scale Citizen Opinion Analysis
 
 ✅ Implemented
 {: .label .label-green }
 ⭐ Parti Original
 {: .label .label-purple }
 
-A feature that uses AI to classify, summarize, and extract category patterns from thousands to tens of thousands of citizen opinions, enabling citizens themselves to identify agendas. Representative cases include the Presidential Committee for National Cohesion's "National Cohesion for All," where over 4,215 citizen proposals were sorted into 6 areas, and "Ten Million Connections," where 788 citizen opinions were organized into 9 areas — with the analysis results feeding back into expert review, citizen panel deliberation, and policy development. The direction is AI assisting citizen deliberation, not AI making verdicts. (Covered in detail in Category 5, Governance; the limits and boundaries of this feature are addressed in item 17.)
+A feature that uses AI to classify, summarize, and extract category patterns from thousands to tens of thousands of citizen opinions, enabling citizens themselves to identify agendas. Representative cases include the Presidential Committee for National Cohesion's "National Cohesion for All," where over 4,215 citizen proposals were sorted into 6 areas, and "Ten Million Connections," where 788 citizen opinions were organized into 9 areas — with the analysis results feeding back into expert review, citizen panel deliberation, and policy development. The direction is AI assisting citizen deliberation, not AI making verdicts. (Covered in detail in Category 5, Governance; the limits and boundaries of this feature are addressed in item 18.)
 
-### 9. Trustworthy Deliberation Summary Reports
+### 10. Trustworthy Deliberation Summary Reports
 
 ⬜ Future Direction
 {: .label }
 
-A feature that organizes citizens' deliberation — expressed through debate, voting, and campaigns — into public reports that respect both the trend of majority opinion and minority opinions. AI is used, but a human review process is always required to produce a summary that can be trusted. The opinion-analysis results of item 8 are already being compiled into reports; the task is to advance these into a form anyone can verify. (Part of the same Deliberation-Assistance family as "AI Discussion Summary" in Category 2, Public Forums.)
+A feature that organizes citizens' deliberation — expressed through debate, voting, and campaigns — into public reports that respect both the trend of majority opinion and minority opinions. AI is used, but a human review process is always required to produce a summary that can be trusted. The opinion-analysis results of item 9 are already being compiled into reports; the task is to advance these into a form anyone can verify. (Part of the same Deliberation-Assistance family as "AI Discussion Summary" in Category 2, Public Forums.)
 
-### 10. AI Content Moderation — Detecting Hate Speech & Code-of-Conduct Violations
+### 11. AI Content Moderation — Detecting Hate Speech & Code-of-Conduct Violations
 
 ✅ Implemented
 {: .label .label-green }
 
 Parti's Campaigns platform moderates hate speech and violating content according to its terms of service and code of conduct, and an AI layer that automatically detects posted content — suggesting revisions to the author or alerting operators — is in operation. A case of AI assisting the safety of large-scale dialogue. Final responsibility for any judgment still rests with people, and citizens can request correction of the result.
 
-### 11. Misinformation Detection & Warning, with Trustworthy Sources
+### 12. Misinformation Detection & Warning, with Trustworthy Sources
 
 ⬜ Future Direction
 {: .label }
 
 A feature that flags information suspected to be false as a citizen writes, and provides trustworthy information sources alongside it. Paired with the after-the-fact tracking and verification of disinformation (item 13), it helps citizens hold their own grounds for judgment before false information spreads.
 
-### 12. AI-Assisted Fact-Checking
+### 13. AI-Assisted Fact-Checking
 
 ⬜ Future Direction
 {: .label }
@@ -148,47 +155,54 @@ A tool where AI assists citizen fact-checkers in their verification work. AI aut
 
 What Parti must build in the AI era.
 
-### 13. Disinformation Pathway Tracking & Proactive Alert
+### 14. Disinformation Pathway Tracking & Proactive Alert
 
 ⬜ Future Direction
 {: .label }
 
 A system that tracks how disinformation is created and along what paths it spreads — moving beyond after-the-fact verification to alert citizens in advance. A task that grows more important as AI-generated disinformation increases. (Also covered in Category 4, Fact-Checking.)
 
-### 14. Citizen-Owned Public-Interest AI
+### 15. Citizen-Owned Public-Interest AI
 
 ⬜ Future Direction
 {: .label }
 
 Not AI owned by Big Tech, but public-interest AI that civil society builds and owns together. An AI model whose training data is transparent in origin and ownership, and in whose governance citizens participate. The form in which the democratic technology Parti envisions is realized in the AI domain.
 
-### 15. Korean Public-Interest Datasets for AI Training
+### 16. Korean Public-Interest Datasets for AI Training
 
 ⬜ Future Direction
 {: .label }
 
 As ownership and provenance of AI training data grow ever more important, refining and releasing citizen-built Korean public-interest data for AI training. Parti's citizen policy DB, public-forum records, and citizen datasets provide the foundation. (Also covered in Category 6, Civic Technology.)
 
-### 16. Civic Capacity Education Framework for the AI Era
+### 17. Civic Capacity Education Framework for the AI Era
 
 ⬜ Future Direction
 {: .label }
 
 A systematic education framework building citizens' capacity to critically understand AI, use it autonomously, and participate in its governance. A direction in which Parti's existing education programs integrate and evolve for the AI era. (Also covered in Category 9, Education.)
 
-### 17. Keeping the Citizen's Place — The Boundary of AI Simulation and Opinion Analysis
+### 18. Keeping the Citizen's Place — The Boundary of AI Simulation and Opinion Analysis
 
 ⬜ Future Direction
 {: .label }
 
-Synthetic persona technology that simulates citizen opinions with AI, and technology that analyzes large-scale opinion data with AI to read citizens' desires, are both advancing rapidly. Both are powerful tools, but they carry the same risk — that AI's output may replace the place where citizens speak for themselves and deliberate together. Even as Parti actively uses AI opinion analysis (item 8), it takes as its task ensuring that such analysis remains in a place that assists, not replaces, citizen deliberation. That the "public sentiment" AI reads can never replace the consensus citizens build by gathering themselves — keeping that boundary together with citizens is a core task of the digital square in the AI era.
+Synthetic persona technology that simulates citizen opinions with AI, and technology that analyzes large-scale opinion data with AI to read citizens' desires, are both advancing rapidly. Both are powerful tools, but they carry the same risk — that AI's output may replace the place where citizens speak for themselves and deliberate together. Even as Parti actively uses AI opinion analysis (item 9), it takes as its task ensuring that such analysis remains in a place that assists, not replaces, citizen deliberation. That the "public sentiment" AI reads can never replace the consensus citizens build by gathering themselves — keeping that boundary together with citizens is a core task of the digital square in the AI era.
 
-### 18. Citizen Data Trust
+### 19. Citizen Data Trust
 
 ⬜ Future Direction
 {: .label }
 
 A trust structure where citizen data is owned and operated by citizens themselves. In an era when AI learns from citizen data to create enormous value, a model that returns data sovereignty to citizens and lets them decide together. (Also covered in Category 6, Civic Technology.)
+
+### 20. AI Democracy Citizens' Assembly
+
+⬜ Future Direction
+{: .label }
+
+A full citizens' assembly in the proper sense — a sortition-selected citizen panel deliberating in depth on AI governance agendas to produce recommendations. The task is to extend the sortition-based deliberation methodology Parti has built through the Climate Citizens' Assembly and others into the AI domain, on the foundation of questions and experience gathered from item 1 (Citizen Dialogue) and item 2 (Citizen Lab). The place that most directly realizes "citizen-participatory consensus," one of the three principles of responsible AI.
 
 ---
 

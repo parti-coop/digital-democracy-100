@@ -142,16 +142,23 @@ A citizens' assembly and public deliberation project for amending the Carbon Neu
 
 [Climate Citizens' Assembly](https://talks.campaigns.do/goals/climate-public-deliberation){: .btn .btn-outline .fs-3 }
 
-### 14. AI Democracy & Workers' Citizens' Assembly
+### 14. AI Democracy Citizen Dialogue
 
 ✅ Implemented
 {: .label .label-green }
 
-Citizens' assemblies asking about democracy in the AI era. Through the lecture series "Asking Democracy Again in the AI Era" and the "AI Ideathon for Workers and Workplaces," citizens deliberate together on what AI should mean for citizens and workers.
+A public forum where citizens themselves ask and talk through the question of democracy in the AI era. Through the lecture series "Asking Democracy Again in the AI Era" and the gathering of citizen questions, citizens deliberate together on what AI should mean for them. (Also covered in Category 11, AI & Future Technology.)
 
 [AI Democracy Citizen Questions](https://talks.campaigns.do/goals/aidemocracy){: .btn .btn-outline .fs-3 }
 
-### 15. Korea Talks (Hankyoreh × Parti)
+### 15. AI Democracy Citizen Lab
+
+✅ Implemented
+{: .label .label-green }
+
+A space where citizens and workers work hands-on with AI to generate ideas. Through the "AI Ideathon for Workers and Workplaces," citizens experiment directly with how they might use and reshape AI as it enters workplaces and daily life. A full citizens' assembly in the proper sense is treated as a future direction in Category 11, AI & Future Technology.
+
+### 16. Korea Talks (Hankyoreh × Parti)
 
 ✅ Implemented
 {: .label .label-green }
@@ -162,14 +169,14 @@ A social-conflict-resolution dialogue program jointly operated by Hankyoreh (Kor
 
 [Korea Talks](https://talks.campaigns.do/goals/parti-talks){: .btn .btn-outline .fs-3 }
 
-### 16. Seoul Education Communication Square
+### 17. Seoul Education Communication Square
 
 ✅ Implemented
 {: .label .label-green }
 
 The Seoul Office of Education's citizen-collaboration platform. An open participation space where students, parents, teachers, and citizens can share opinions and propose ideas on Seoul's education policy.
 
-### 17. Regional Citizen-Collaboration Platforms
+### 18. Regional Citizen-Collaboration Platforms
 
 ✅ Implemented
 {: .label .label-green }
@@ -185,14 +192,14 @@ Platforms operated in partnership with local governments and regional communitie
 
 The next leap for citizen governance.
 
-### 18. Advanced AI Opinion Classification & Synthesis
+### 19. Advanced AI Opinion Classification & Synthesis
 
 ⬜ Future Direction
 {: .label }
 
 Further development of current AI analysis tools — extending beyond agenda-finding to automatic identification and visualization of points of citizen agreement and divergence. Letting citizens see immediately where their own opinions sit in the larger conversation.
 
-### 19. Blockchain-Verified Citizen Decision-Making
+### 20. Blockchain-Verified Citizen Decision-Making
 
 ⬜ Future Direction
 {: .label }
