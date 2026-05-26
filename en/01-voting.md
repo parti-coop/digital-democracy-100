@@ -100,6 +100,13 @@ Supports stable online voting at scales of 10,000+ participants. Used in partici
 
 Weighted voting where the cost of additional votes for one option grows quadratically. Creates balance between weak majority preferences and strong minority preferences.
 
+## 12. Delegated Voting (Liquid Democracy)
+
+⬜ Future Direction
+{: .label }
+
+A liquid-democracy voting format where citizens can either cast their own vote or delegate it to another citizen more versed in a given topic. Delegations can differ by topic and be withdrawn anytime, keeping the line between direct and representative democracy flexible. Rooted in the same idea as Live Vote Changing (item 6) — decision-making that stays alive rather than ending in a single choice.
+
 ---
 
 [← English Home](/en/){: .btn .btn-outline }

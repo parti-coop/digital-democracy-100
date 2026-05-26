@@ -60,7 +60,7 @@ We started with the idea of 100, but in the process of cataloging we discovered 
 
 | # | English · 한국어 | Items |
 |---|------------------|:-----:|
-| 1 | 🗳️ [Voting Modules](./en/01-voting.html) · [투표 모듈](./ko/01-voting.html) | 11 |
+| 1 | 🗳️ [Voting Modules](./en/01-voting.html) · [투표 모듈](./ko/01-voting.html) | 12 |
 | 2 | 💬 [Public Forums & Dialogue](./en/02-dialogue.html) · [공론장과 토론](./ko/02-dialogue.html) | 16 |
 | 3 | 📣 [Citizen Campaigns](./en/03-campaigns.html) · [시민 캠페인](./ko/03-campaigns.html) | 12 |
 | 4 | ✅ [Fact-Checking](./en/04-factcheck.html) · [팩트체크](./ko/04-factcheck.html) | 11 |
@@ -72,9 +72,9 @@ We started with the idea of 100, but in the process of cataloging we discovered 
 | 10 | 🤝 [Civic Participation & Solidarity](./en/10-civic-solidarity.html) · [시민 참여 확대와 연대](./ko/10-civic-solidarity.html) | 10 |
 | 11 | 🤖 [AI & Future Technology](./en/11-ai-future.html) · [AI와 미래 기술](./ko/11-ai-future.html) | 20 |
 
-**Total: 154 features and programs across 11 categories.**
+**Total: 155 features and programs across 11 categories.**
 
-**전체: 11개 영역 154가지 기능과 프로그램.**
+**전체: 11개 영역 155가지 기능과 프로그램.**
 
 ---
 
