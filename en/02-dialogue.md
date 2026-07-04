@@ -104,7 +104,7 @@ Public forum and dialogue programs Parti has developed and operated over the pas
 ⭐ Parti Original
 {: .label .label-purple }
 
-Parti's unique deliberative program that matches citizens with the most differing views — based on Galaxy Vote response data — for one-on-one or small-group dialogue. Tracks opinion shifts before and after dialogue. A signature implementation is Korea Talks, operated jointly with Hankyoreh.
+Parti's unique deliberative program that matches citizens with the most differing views — based on Galaxy Vote response data — for one-on-one or small-group dialogue. Tracks opinion shifts before and after dialogue. More recently, AI matching that combines machine learning and LLMs has been in operation, pairing suitable dialogue partners from response data. A signature implementation is Korea Talks, operated jointly with Hankyoreh.
 
 [Korea Talks](https://talks.campaigns.do/goals/parti-talks){: .btn .btn-outline .fs-3 }
 

@@ -7,7 +7,7 @@ nav_order: 4
 # ✅ Fact-Checking
 {: .no_toc }
 
-Citizen fact-checking in the age of disinformation. Parti built Korea's first crowdsourced fact-checking platform with citizen participation and operates a community where citizens themselves become fact-checkers, building truth together. Beyond after-the-fact verification, Parti is developing proactive responses that track the circulation paths of disinformation.
+Citizen fact-checking in the age of disinformation. Parti built Korea's first crowdsourced fact-checking platform with citizen participation and operates a community where citizens themselves become fact-checkers, building truth together. Beyond after-the-fact verification, Parti is developing proactive responses that track the circulation paths of disinformation. A fact-checking chatbot that verifies claims against already-verified facts during public dialogue is also in operation. (Covered in Category 11, AI.)
 
 ## Table of contents
 {: .no_toc .text-delta }

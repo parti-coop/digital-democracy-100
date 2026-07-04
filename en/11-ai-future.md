@@ -111,14 +111,14 @@ A feature that provides the proposal at the starting point of a debate as both a
 
 **Deliberation-Assistance System** — features that help large numbers of citizens understand one another's perspectives and develop the discussion step by step.
 
-### 9. AI-Based Large-Scale Citizen Opinion Analysis
+### 9. Chorus — AI-Based Large-Scale Citizen Opinion Analysis
 
 ✅ Implemented
 {: .label .label-green }
 ⭐ Parti Original
 {: .label .label-purple }
 
-A feature that uses AI to classify, summarize, and extract category patterns from thousands to tens of thousands of citizen opinions, enabling citizens themselves to identify agendas. Representative cases include the Presidential Committee for National Cohesion's "National Cohesion for All," where over 4,215 citizen proposals were sorted into 6 areas, and "Ten Million Connections," where 788 citizen opinions were organized into 9 areas — with the analysis results feeding back into expert review, citizen panel deliberation, and policy development. The direction is AI assisting citizen deliberation, not AI making verdicts. (Covered in detail in Category 5, Governance; the limits and boundaries of this feature are addressed in item 18.)
+A feature that uses AI to classify, summarize, and extract category patterns from thousands to tens of thousands of citizen opinions, enabling citizens themselves to identify agendas. It now runs as **Chorus**, a five-stage human-in-the-loop agenda-discovery platform that combines automated AI classification (NLP, topic modeling, document embeddings) with qualitative intervention by human facilitators — algorithms cluster opinions, human facilitators refine them in context, and the results feed back into the public square for further discussion and learning. The final agenda is confirmed by citizens and facilitators, never by the algorithm alone. Representative cases include the Presidential Committee for National Cohesion's "National Cohesion for All," where over 4,215 citizen proposals were sorted into 6 areas, and "Ten Million Connections," where 788 citizen opinions were organized into 9 areas — with the analysis results feeding back into expert review, citizen panel deliberation, and policy development. The direction is AI assisting citizen deliberation, not AI making verdicts. (Covered in detail in Category 5, Governance; the limits and boundaries of this feature are addressed in item 18.)
 
 ### 10. Trustworthy Deliberation Summary Reports
 
@@ -134,12 +134,12 @@ A feature that organizes citizens' deliberation — expressed through debate, vo
 
 Parti's Campaigns platform moderates hate speech and violating content according to its terms of service and code of conduct, and an AI layer that automatically detects posted content — suggesting revisions to the author or alerting operators — is in operation. A case of AI assisting the safety of large-scale dialogue. Final responsibility for any judgment still rests with people, and citizens can request correction of the result.
 
-### 12. Misinformation Detection & Warning, with Trustworthy Sources
+### 12. Fact-Checking Chatbot — Misinformation Detection & Verification
 
-⬜ Future Direction
-{: .label }
+✅ Implemented
+{: .label .label-green }
 
-A feature that flags information suspected to be false as a citizen writes, and provides trustworthy information sources alongside it. Paired with the after-the-fact tracking and verification of disinformation (item 13), it helps citizens hold their own grounds for judgment before false information spreads.
+A chatbot that verifies claims during public dialogue, drawing on facts that have already been verified and secured. It helps citizens hold their own grounds for judgment before false information spreads. Next steps include extending it to flag suspected misinformation at the moment of writing — with trustworthy sources provided alongside — and linking it with the after-the-fact tracking and verification of disinformation (item 14). (Also covered in Category 4, Fact-Check.)
 
 ### 13. AI-Assisted Fact-Checking
 

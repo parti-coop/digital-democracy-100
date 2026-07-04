@@ -45,7 +45,7 @@ Participants assign points to multiple options to express preferences and derive
 ⭐ Parti Original
 {: .label .label-purple }
 
-Parti's independently developed voting format that visualizes citizen opinion distribution as a star cluster. Beyond yes-no responses, it reveals the topography of public opinion and serves as the starting point for deliberative matching in Star Talk and Korea Talks.
+Parti's independently developed voting format that visualizes citizen opinion distribution as a star cluster. Beyond yes-no responses, it reveals the topography of public opinion and serves as the starting point for deliberative matching in Star Talk and Korea Talks. More recently, AI analysis combining machine learning and LLMs has been integrated into its operation, inferring participants' opinion groups from their responses. (Also covered in Category 11, AI.)
 
 ## 5. Battle Voting
 
