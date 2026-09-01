@@ -92,12 +92,25 @@ A feature that collects citizen suggestions and questions during live events. Tr
 
 Parti's Campaigns platform moderates hate speech and violating content according to its terms of service and code of conduct, with AI automatically detecting posted content to suggest revisions to the author or alert operators. A foundation for a safe discussion space where citizens can exchange views with confidence. Final responsibility for any judgment rests with people, and citizens can request correction of the result. (Covered in detail in Category 11, AI & Future Technology.)
 
+### 9. Collaborative Editing
+
+✅ Implemented
+{: .label .label-green }
+⭐ Parti Original
+{: .label .label-purple }
+
+A tool where citizens read a source text together — a legal provision or a policy draft — and each proposes a better revision as a full alternative to the original. Differences are displayed as a line- and word-level diff, and support for each revision is gathered through one-person-one-vote approval, opposition, or abstention. The point is to move past for-or-against ratios and argue *what* should change and *how*, at the level of the sentence. Not actual constitutional or legislative drafting, but an exercise in rewriting the language of norms in the language of citizens.
+
+[Collaborative Editing Toolkit](https://campaigns.do/toolkits/coedit){: .btn .btn-outline .fs-3 }
+
+---
+
 ## Event Formats & Methodologies
 {: .text-delta }
 
 Public forum and dialogue programs Parti has developed and operated over the past decade.
 
-### 9. Star Talk
+### 10. Star Talk
 
 ✅ Implemented
 {: .label .label-green }
@@ -108,7 +121,7 @@ Parti's unique deliberative program that matches citizens with the most differin
 
 [Korea Talks](https://talks.campaigns.do/goals/parti-talks){: .btn .btn-outline .fs-3 }
 
-### 10. Policy Battle
+### 11. Policy Battle
 
 ✅ Implemented
 {: .label .label-green }
@@ -117,33 +130,42 @@ A debate format where two opposing policy arguments face each other and particip
 
 [About Policy Battle](https://medium.com/parti-xyz-developers/%EB%B9%A0%EB%9D%A0-%ED%83%80%EC%9A%B4%ED%99%80-x-%EC%A0%95%EC%B1%85%EB%B0%B0%ED%8B%80-%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B3%A0-%EB%AF%BC%EC%A3%BC%EC%A0%81%EC%9D%B8-%EA%B3%B5%EB%A1%A0%EC%9E%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-b25ccaae9cc7){: .btn .btn-outline .fs-3 }
 
-### 11. Idea Market
+### 12. Idea Market
 
 ✅ Implemented
 {: .label .label-green }
 
 An event format where ideas are proposed, displayed, and selected by vote. A marketplace for gathering and developing citizens' creative ideas.
 
-### 12. Brainstorming Toolkit
+### 13. Brainstorming Toolkit
 
 ✅ Implemented
 {: .label .label-green }
 
 A structured dialogue program that connects small-group discussions to a collective vote. A methodology for turning scattered ideas into group decisions.
 
-### 13. Open Forum · Online Citizen Dialogue
+### 14. Open Forum · Online Citizen Dialogue
 
 ✅ Implemented
 {: .label .label-green }
 
 A regular biweekly online dialogue program. A space where citizens can participate in public discourse as part of everyday life.
 
-### 14. Issue Meetup
+### 15. Issue Meetup
 
 ✅ Implemented
 {: .label .label-green }
 
 Small-group dialogue gatherings centered on issue experts, organized as a membership program. A space for deeper exploration of specific topics.
+
+### 16. Writing Project
+
+✅ Implemented
+{: .label .label-green }
+
+A community project where people who share an interest in a social issue write about it and then talk their writing through together at a colloquium. Participants are recruited through the "Gatherings" pages on Citizen Talks and CitizenPass, and the core of it is a community chat room run as a "writing running-mate" structure: each time someone posts a piece, the others read it and leave comments and reactions. Citizens, directly affected people, activists, and experts each write the same issue in their own language — which turns one-off event attendance into genuine community building. The writing and conversation are archived, remaining as an asset that widens the public conversation around that issue.
+
+[Writing Project Toolkit](https://campaigns.do/toolkits/writing-project){: .btn .btn-outline .fs-3 }
 
 ---
 
@@ -152,14 +174,14 @@ Small-group dialogue gatherings centered on issue experts, organized as a member
 
 What Parti aspires to develop in the next decade.
 
-### 15. Argument-Structured Debate
+### 17. Argument-Structured Debate
 
 ⬜ Future Direction
 {: .label }
 
 A module that attaches evidence, sources, and counter-arguments to claims in a hierarchical structure, encouraging "reasoned debate." Moves beyond opinion exchange toward a debate environment with logical verifiability.
 
-### 16. AI Discussion Summary
+### 18. AI Discussion Summary
 
 ⬜ Future Direction
 {: .label }

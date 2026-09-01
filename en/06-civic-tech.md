@@ -38,7 +38,10 @@ Parti's civic-technology platform where citizens build datasets, initiate projec
 
 An archive of citizen-built datasets curated and made freely available. Examples include the Korean Comfort Women Memorial Statue records, care-labor statistics, Supreme Court en banc judgments, the 2023 Climate Crisis Public Opinion Survey, and the 6411 Bus First Passenger Analysis — all datasets created by citizens themselves.
 
+Parti also offers advisory support for organizations that hold data but find preparing and sharing it daunting. The work runs in three stages: cleaning and processing the source data, including removing sensitive information; publishing it with a defined scope of use and license; and managing collected use cases and a change history. Some 500 organizations have inquired to date.
+
 [Parti Datasets](https://data.campaigns.do/datasets){: .btn .btn-outline .fs-3 }
+[Data Disclosure Toolkit](https://campaigns.do/toolkits/data-disclosure){: .btn .btn-outline .fs-3 }
 
 ### 3. Citizen Data Visualization & Analysis Tools
 
@@ -65,14 +68,16 @@ A systematically organized database of citizen policy proposals from 200+ public
 
 Parti's programs through which citizens build civic technology.
 
-### 5. Citizen Data Lab · Civic Hacking Lab
+### 5. Civic Tech Lab
 
 ✅ Implemented
 {: .label .label-green }
 ⭐ Parti Original
 {: .label .label-purple }
 
-Parti's laboratory programs where citizens directly build datasets, conduct analysis, and solve social problems. Operated in various regions and with various participants — Daegu Civic Data Lab, Gwangju Youth "I'm Also a Data Activist," and more — these labs are core pathways for citizens to grow into civic hackers.
+An experimental program where citizens use data, digital tools, and AI to define public-interest problems and demonstrate solutions themselves. The name brings together and extends what Parti has run as data living labs, civic data labs, and civic hacking. It operates as a five-stage cohort: open recruitment, an ideathon to surface problems and form teams, team selection, demonstration support (mentoring, expert consulting, data and development infrastructure), and a demo day with follow-on tracks. Data projects follow a collect → clean → analyze → visualize → act flow. It has run in many regions and with many groups — Daegu Civic Data Lab, Gwangju Youth "I'm Also a Data Activist," and more — and produced projects such as Green Book (accessibility of playgrounds), Gongik Broker (tenant housing rights, read from the registry records of 2,136 buildings in Daehak-dong), 2024HeonJae04 (judicial diversity seen through constitutional-court justice data), and Jonjal Assembly (legislator activity data). Outputs are left behind as open source and public-interest data so other citizens can reuse them. These labs remain a core pathway for citizens to grow into civic hackers. (Paired with "Citizen Policy Lab" in Category 5, Governance & Citizen Assemblies.)
+
+[Civic Tech Lab Toolkit](https://campaigns.do/toolkits/data-living-lab){: .btn .btn-outline .fs-3 }
 
 ### 6. Civic Hacking Project Incubation
 
@@ -90,6 +95,15 @@ Civic hacking project incubation operated jointly with the Code for Korea networ
 
 Education and workshops building citizens' capacity to handle data, visualize it, and discover its social meaning. Parti has operated these in collaboration with various institutions and regions.
 
+### 8. Digital Social Innovation (DSI) Project Toolkit
+
+✅ Implemented
+{: .label .label-green }
+
+An openly published toolkit that lets citizens and organizations design their own projects to solve social problems with digital technology. It has three parts: a Problem Empathy Canvas for deciding what counts as the problem, a Data-Based Digital Social Innovation Project Canvas for designing the activity, and an Open Source Project Navigation Guide for leaving the results behind as commons. Useful when problem definition feels out of reach, when planning a data-driven project, and when checking the health of one already underway.
+
+[DSI Toolkit](https://campaigns.do/toolkits/dsi-toolkit){: .btn .btn-outline .fs-3 }
+
 ---
 
 ## Signature Projects
@@ -97,7 +111,7 @@ Education and workshops building citizens' capacity to handle data, visualize it
 
 Real-world changes made by civic technology.
 
-### 8. COVID-19 Mask App · Personal Safety Number
+### 9. COVID-19 Mask App · Personal Safety Number
 
 ✅ Implemented
 {: .label .label-green }
@@ -105,7 +119,7 @@ Real-world changes made by civic technology.
 
 The most internationally recognized civic-tech case from the Code for Korea network during the 2020 COVID-19 response. Proposed and led by Parti chair Ohyeon Kweon within the Code for Korea network, the project used the government's public mask supply data to build a citizen-facing app and proposed the Personal Safety Number model balancing privacy with public interest. Recognized by the Minister's Award from Korea's Ministry of Science and ICT.
 
-### 9. Ansim Hospital · Ansim-i
+### 10. Ansim Hospital · Ansim-i
 
 ✅ Implemented
 {: .label .label-green }
@@ -113,21 +127,21 @@ The most internationally recognized civic-tech case from the Code for Korea netw
 
 One of Korea's first civic hacking projects, started in 2012 within the Code Namu (Code Tree) community. A tool allowing citizens to directly check safe hospital information, led by Parti chair Ohyeon Kweon and later evolved into Ansim-i within the Code for Korea network. Recorded as a starting point of Korea's civic-tech movement.
 
-### 10. Urban Forest Data with Citizens
+### 11. Urban Forest Data with Citizens
 
 ✅ Implemented
 {: .label .label-green }
 
 An urban-forest data project built jointly by Parti, Chuncheon Social Innovation Center, and Chuncheon City Hall. A case where citizens directly observed and measured urban forests in their own neighborhoods, influencing city policy through the data they created.
 
-### 11. Everyday Observers — Our Neighborhood Handcarts
+### 12. Everyday Observers — Our Neighborhood Handcarts
 
 ✅ Implemented
 {: .label .label-green }
 
 A citizen-observation data project operated with Chuncheon Social Innovation Center. Citizens observed handcart users in their own neighborhoods, and through that data brought into view the invisible reality of urban labor.
 
-### 12. Diverse Citizen Datasets
+### 13. Diverse Citizen Datasets
 
 ✅ Implemented
 {: .label .label-green }
@@ -143,14 +157,14 @@ Parti's civic-tech platform hosts a wide range of citizen-built datasets — the
 
 The next leap for civic technology.
 
-### 13. Citizen Data Trust
+### 14. Citizen Data Trust
 
 ⬜ Future Direction
 {: .label }
 
 A trust structure where citizen data is owned and operated by citizens themselves. In an era when Big Tech extracts massive profits from citizen data, this model returns sovereignty to citizens and lets them decide together how their data is used. Parti's distinctive approach emerges where its civic-data platform meets its cooperative structure.
 
-### 14. Korean Public-Interest Datasets for AI Training
+### 15. Korean Public-Interest Datasets for AI Training
 
 ⬜ Future Direction
 {: .label }

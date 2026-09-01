@@ -66,20 +66,20 @@ We started with the idea of 100, but in the process of cataloging we discovered 
 | # | English · 한국어 | Items |
 |---|------------------|:-----:|
 | 1 | 🗳️ [Voting Modules](./en/01-voting.html) · [투표 모듈](./ko/01-voting.html) | 12 |
-| 2 | 💬 [Public Forums & Dialogue](./en/02-dialogue.html) · [공론장과 토론](./ko/02-dialogue.html) | 16 |
+| 2 | 💬 [Public Forums & Dialogue](./en/02-dialogue.html) · [공론장과 토론](./ko/02-dialogue.html) | 18 |
 | 3 | 📣 [Citizen Campaigns](./en/03-campaigns.html) · [시민 캠페인](./ko/03-campaigns.html) | 12 |
 | 4 | ✅ [Fact-Checking](./en/04-factcheck.html) · [팩트체크](./ko/04-factcheck.html) | 11 |
-| 5 | 🏛️ [Governance & Citizen Assemblies](./en/05-governance.html) · [거버넌스와 시민의회](./ko/05-governance.html) | 20 |
-| 6 | 🛠️ [Civic Technology](./en/06-civic-tech.html) · [시민 기술](./ko/06-civic-tech.html) | 14 |
+| 5 | 🏛️ [Governance & Citizen Assemblies](./en/05-governance.html) · [거버넌스와 시민의회](./ko/05-governance.html) | 21 |
+| 6 | 🛠️ [Civic Technology](./en/06-civic-tech.html) · [시민 기술](./ko/06-civic-tech.html) | 15 |
 | 7 | 🏗️ [Platform Builder & Org Infrastructure](./en/07-builder.html) · [플랫폼 빌더와 조직 인프라](./ko/07-builder.html) | 13 |
 | 8 | 🎖️ [Participation Incentives & Membership](./en/08-membership.html) · [참여 보상과 멤버십](./ko/08-membership.html) | 12 |
-| 9 | 🎓 [Education & Capacity Building](./en/09-education.html) · [교육과 역량 강화](./ko/09-education.html) | 15 |
+| 9 | 🎓 [Education & Capacity Building](./en/09-education.html) · [교육과 역량 강화](./ko/09-education.html) | 17 |
 | 10 | 🤝 [Civic Participation & Solidarity](./en/10-civic-solidarity.html) · [시민 참여 확대와 연대](./ko/10-civic-solidarity.html) | 10 |
 | 11 | 🤖 [AI & Future Technology](./en/11-ai-future.html) · [AI와 미래 기술](./ko/11-ai-future.html) | 20 |
 
-**Total: 155 features and programs across 11 categories.**
+**Total: 161 features and programs across 11 categories.**
 
-**전체: 11개 영역 155가지 기능과 프로그램.**
+**전체: 11개 영역 161가지 기능과 프로그램.**
 
 ---
 
@@ -89,6 +89,7 @@ We started with the idea of 100, but in the process of cataloging we discovered 
 - [Parti Campaigns · 빠띠 캠페인즈](https://campaigns.do)
 - [DemosX · 데모스X](https://demosx.org)
 - [Townhall · 빠띠 타운홀](https://townhall.kr)
+- [Civic Action Toolkits · 빠띠 시민 활동 툴킷](https://campaigns.do/toolkits)
 - [正體中文互動版 · Traditional Chinese edition by Mashbean(黃豆泥)](https://pro.mashbean.net/parti-digital-democracy-100/)
 - [GitHub Repository](https://github.com/parti-coop/digital-democracy-100)
 - [Suggest a Change · 변경 제안](https://github.com/parti-coop/digital-democracy-100/issues/new)

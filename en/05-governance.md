@@ -92,6 +92,15 @@ An operations guide and checklist that institutions adopting a citizen-collabora
 
 DemosX is independently developed by Parti but released as open source — anyone can build their own public square with it. Both the code and the operations guide from 200+ public forums are openly available, so institutions don't need to build from scratch but can adopt and adapt a validated model. The conviction that the citizens' square belongs to citizens, embodied in open code and shared know-how.
 
+### 9. Citizen Policy Lab
+
+✅ Implemented
+{: .label .label-green }
+
+A program that takes an agenda — proposed by citizens, or raised by a region or institution — and runs it as a small-scale experiment before it becomes policy, to test whether it actually works and whether citizens accept it. It continues and expands what Parti has run under the name "Testing Ground." The process runs in five stages: selecting the agenda, designing the experiment, running it (typically three to six months), analyzing results, and connecting the findings to public deliberation and policy. The craft lies in framing an experiment question concrete enough for the answer to be visible — for example, "If we place a doll on the priority seat, will only pregnant passengers sit there?" This is the missing middle step where a citizen proposal, instead of dying in the binary of accepted or rejected, grows through experiment and deliberation. Through DemosX, Parti has supported 107 citizen experiment teams cumulatively as of 2025, and results feed into Galaxy Vote, Star Talk, and Chorus as the starting point for deliberation. (Paired with "Civic Tech Lab" in Category 6, Civic Technology.)
+
+[Citizen Policy Lab Toolkit](https://campaigns.do/toolkits/testing-ground){: .btn .btn-outline .fs-3 }
+
 ---
 
 ## Governance Implementations
@@ -99,7 +108,7 @@ DemosX is independently developed by Parti but released as open source — anyon
 
 Citizen-collaboration platforms operated on DemosX in Korea.
 
-### 9. Democracy Seoul / Sangsangdaero Seoul
+### 10. Democracy Seoul / Sangsangdaero Seoul
 
 ✅ Implemented
 {: .label .label-green }
@@ -108,14 +117,14 @@ The Seoul Metropolitan Government's citizen-collaboration platform. Parti led th
 
 [Sangsangdaero Seoul](https://idea.seoul.go.kr){: .btn .btn-outline .fs-3 }
 
-### 10. Gwanghwamun 1st Avenue / Policy Dialogue Forum
+### 11. Gwanghwamun 1st Avenue / Policy Dialogue Forum
 
 ✅ Implemented
 {: .label .label-green }
 
 The Ministry of the Interior and Safety's whole-of-government citizen-participation platform. Parti has operated the Open Dialogue Forum since 2021, which evolved into the Policy Dialogue Forum — a cross-government public square where citizens and government deliberate together on rapidly changing social issues.
 
-### 11. National Cohesion Platform
+### 12. National Cohesion Platform
 
 ✅ Implemented
 {: .label .label-green }
@@ -124,7 +133,7 @@ The Presidential Committee for National Cohesion's citizen-participation platfor
 
 [National Cohesion Platform](https://cohesion.or.kr){: .btn .btn-outline .fs-3 }
 
-### 12. Ten Million Connections
+### 13. Ten Million Connections
 
 ✅ Implemented
 {: .label .label-green }
@@ -133,7 +142,7 @@ An online public square where citizens dream together about the world to build a
 
 [Ten Million Connections Report](https://talk.bisang1203.net/pages/10million-connections-report2){: .btn .btn-outline .fs-3 }
 
-### 13. Climate Citizens' Assembly
+### 14. Climate Citizens' Assembly
 
 ✅ Implemented
 {: .label .label-green }
@@ -142,7 +151,7 @@ A citizens' assembly and public deliberation project for amending the Carbon Neu
 
 [Climate Citizens' Assembly](https://talks.campaigns.do/goals/climate-public-deliberation){: .btn .btn-outline .fs-3 }
 
-### 14. AI Democracy Citizen Dialogue
+### 15. AI Democracy Citizen Dialogue
 
 ✅ Implemented
 {: .label .label-green }
@@ -151,14 +160,14 @@ A public forum where citizens themselves ask and talk through the question of de
 
 [AI Democracy Citizen Questions](https://talks.campaigns.do/goals/aidemocracy){: .btn .btn-outline .fs-3 }
 
-### 15. AI Democracy Citizen Lab
+### 16. AI Democracy Citizen Lab
 
 ✅ Implemented
 {: .label .label-green }
 
 A space where citizens and workers work hands-on with AI to generate ideas. Through the "AI Ideathon for Workers and Workplaces," citizens experiment directly with how they might use and reshape AI as it enters workplaces and daily life. A full citizens' assembly in the proper sense is treated as a future direction in Category 11, AI & Future Technology.
 
-### 16. Korea Talks (Hankyoreh × Parti)
+### 17. Korea Talks (Hankyoreh × Parti)
 
 ✅ Implemented
 {: .label .label-green }
@@ -169,14 +178,14 @@ A social-conflict-resolution dialogue program jointly operated by Hankyoreh (Kor
 
 [Korea Talks](https://talks.campaigns.do/goals/parti-talks){: .btn .btn-outline .fs-3 }
 
-### 17. Seoul Education Communication Square
+### 18. Seoul Education Communication Square
 
 ✅ Implemented
 {: .label .label-green }
 
 The Seoul Office of Education's citizen-collaboration platform. An open participation space where students, parents, teachers, and citizens can share opinions and propose ideas on Seoul's education policy.
 
-### 18. Regional Citizen-Collaboration Platforms
+### 19. Regional Citizen-Collaboration Platforms
 
 ✅ Implemented
 {: .label .label-green }
@@ -192,14 +201,14 @@ Platforms operated in partnership with local governments and regional communitie
 
 The next leap for citizen governance.
 
-### 19. Advanced AI Opinion Classification & Synthesis
+### 20. Advanced AI Opinion Classification & Synthesis
 
 ⬜ Future Direction
 {: .label }
 
 Further development of current AI analysis tools — extending beyond agenda-finding to automatic identification and visualization of points of citizen agreement and divergence. Letting citizens see immediately where their own opinions sit in the larger conversation.
 
-### 20. Blockchain-Verified Citizen Decision-Making
+### 21. Blockchain-Verified Citizen Decision-Making
 
 ⬜ Future Direction
 {: .label }

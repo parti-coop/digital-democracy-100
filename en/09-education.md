@@ -126,6 +126,15 @@ A comprehensive education program where citizens learn Parti's diverse democracy
 
 Parti's workshop methodology for learning the campaign-running process by experiencing it as a game. Participants walk through a simulated campaign and directly experience the role of campaigners. (Also covered in Categories 3 and 8.)
 
+### 13. News Editathon
+
+✅ Implemented
+{: .label .label-green }
+
+A 90-minute workshop where citizens find news about an issue together, weave it into an "issue timeline," and talk it through. The name combines "editor" and "marathon" — concentrated editing and organizing within a fixed time. The flow: read a framing text together, share keywords, upload the news each person found with a comment attached to the timeline, then discuss. The design hinges on participants sourcing the news themselves, which is what secures diversity of information. It works as an entry point that builds rapport when starting a group around a new agenda, and leads on to citizen dialogues, datathons, and campaigns. Editions include the online "#ConstitutionalAmendment News Editathon" in February 2025 and "Living Together with the Long-Tailed Goral," run with the Korea National Parks Conservation Network.
+
+[News Editathon Toolkit](https://campaigns.do/toolkits/news-editathon){: .btn .btn-outline .fs-3 }
+
 ---
 
 ## Collaborative Guide-Making
@@ -133,7 +142,7 @@ Parti's workshop methodology for learning the campaign-running process by experi
 
 Parti's collaborative projects that create guides on specific topics with citizens and activists, then distribute them to society.
 
-### 13. Generative AI Guide for Civil Society
+### 14. Generative AI Guide for Civil Society
 
 ✅ Implemented
 {: .label .label-green }
@@ -142,12 +151,21 @@ A guide project that helps civil society organizations think through and shape h
 
 [Activist AI Workshop](https://talks.campaigns.do/posts/Yyt0RjK){: .btn .btn-outline .fs-3 }
 
-### 14. Public Forum DEI Guide
+### 15. Public Forum DEI Guide
 
 ✅ Implemented
 {: .label .label-green }
 
 A guide citizens create together to strengthen diversity, equity, and inclusion (DEI) in public forums. Datathons surface diversity data from public forums, issue meetups and citizen dialogues gather the discussion, and the results are organized into a DEI guide distributed to society. An effort to fix — by citizens' own hands — the structures where certain groups are overrepresented and minority voices go unheard.
+
+### 16. Civic Action Toolkit Library
+
+✅ Implemented
+{: .label .label-green }
+
+A published collection of the methodologies Parti has accumulated over a decade, written so that anyone can run them as-is. Thirty-seven toolkits across six areas — public forums and dialogue, citizen campaigns, fact-checking, governance and citizen assemblies, civic technology, and community — each documenting the background, core concepts, process, governance principles, past editions, and expected outcomes. The purpose is to let other organizations and citizens open their own public squares without Parti running them. Many of the programs recorded in this document are published there as toolkits.
+
+[Parti Civic Action Toolkits](https://campaigns.do/toolkits){: .btn .btn-outline .fs-3 }
 
 ---
 
@@ -156,7 +174,7 @@ A guide citizens create together to strengthen diversity, equity, and inclusion 
 
 The next leap for citizen education.
 
-### 15. Civic Capacity Education Framework for the AI Era
+### 17. Civic Capacity Education Framework for the AI Era
 
 ⬜ Future Direction
 {: .label }
