@@ -68,5 +68,5 @@ permalink: /ko/
 - [데모스X](https://demosx.org)
 - [빠띠 타운홀](https://townhall.kr)
 - [English version](../en)
-- [正體中文版 (중국어 번체 · 커뮤니티 번역)](https://pro.mashbean.net/parti-digital-democracy-100/)
+- [正體中文版 (중국어 번체 · Mashbean(黃豆泥) 번역)](https://pro.mashbean.net/parti-digital-democracy-100/)
 - [GitHub 저장소](https://github.com/parti-coop/digital-democracy-100)

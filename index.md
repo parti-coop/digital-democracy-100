@@ -89,6 +89,6 @@ We started with the idea of 100, but in the process of cataloging we discovered 
 - [Parti Campaigns · 빠띠 캠페인즈](https://campaigns.do)
 - [DemosX · 데모스X](https://demosx.org)
 - [Townhall · 빠띠 타운홀](https://townhall.kr)
-- [正體中文互動版 · Traditional Chinese, community edition](https://pro.mashbean.net/parti-digital-democracy-100/)
+- [正體中文互動版 · Traditional Chinese edition by Mashbean(黃豆泥)](https://pro.mashbean.net/parti-digital-democracy-100/)
 - [GitHub Repository](https://github.com/parti-coop/digital-democracy-100)
 - [Suggest a Change · 변경 제안](https://github.com/parti-coop/digital-democracy-100/issues/new)
