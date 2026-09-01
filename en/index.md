@@ -64,4 +64,5 @@ Corrections, additions, and suggestions are welcome through [GitHub Issues](http
 - [DemosX](https://demosx.org)
 - [Townhall](https://townhall.kr)
 - [한국어 버전](../ko/)
+- [正體中文版 · Traditional Chinese, community translation](https://pro.mashbean.net/parti-digital-democracy-100/)
 - [GitHub Repository](https://github.com/parti-coop/digital-democracy-100)

@@ -42,6 +42,12 @@ digital-democracy-100/
 └── LICENSE                  # CC BY 4.0
 ```
 
+## Translations / 번역판
+
+- **正體中文 (Traditional Chinese)** — [Parti 數位民主的 100 個功能（正體中文互動版）](https://pro.mashbean.net/parti-digital-democracy-100/), an independent translation and interactive remix by Mashbean (黃豆泥), derived from the English version under CC BY 4.0. Not maintained by Parti.
+
+  시빅해커 Mashbean(黃豆泥)이 영문판을 옮겨 만든 독립 번역·리믹스 판입니다. CC BY 4.0에 따라 제작되었으며 빠띠가 관리하지 않습니다.
+
 ## Related Links / 관련 링크
 
 - [Parti Cooperative · 사회적협동조합 빠띠](https://parti.coop)

@@ -19,8 +19,13 @@ A Decade in Review · 10년의 기록
 
 ## Choose your language · 언어 선택
 
-[🇰🇷 한국어로 보기](./ko/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[🌐 Read in English](./en/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[한국어로 보기](./ko/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Read in English](./en/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[閱讀正體中文版](https://pro.mashbean.net/parti-digital-democracy-100/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+正體中文(Traditional Chinese)판은 시빅해커 Mashbean(黃豆泥)이 영문판을 옮겨 만든 독립 번역·리믹스 판입니다. CC BY 4.0에 따라 제작되었으며, 빠띠가 직접 관리하지는 않습니다.
+
+The 正體中文 (Traditional Chinese) edition is an independent translation and remix by Mashbean (黃豆泥), derived from the English version under CC BY 4.0. It is not maintained by Parti.
 
 ---
 
@@ -84,5 +89,6 @@ We started with the idea of 100, but in the process of cataloging we discovered 
 - [Parti Campaigns · 빠띠 캠페인즈](https://campaigns.do)
 - [DemosX · 데모스X](https://demosx.org)
 - [Townhall · 빠띠 타운홀](https://townhall.kr)
+- [正體中文互動版 · Traditional Chinese, community edition](https://pro.mashbean.net/parti-digital-democracy-100/)
 - [GitHub Repository](https://github.com/parti-coop/digital-democracy-100)
 - [Suggest a Change · 변경 제안](https://github.com/parti-coop/digital-democracy-100/issues/new)
