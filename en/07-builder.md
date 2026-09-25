@@ -73,7 +73,7 @@ A system for managing finely-divided permissions across various roles — organi
 ## Builder Tools for Other Organizations
 {: .text-delta }
 
-Tools through which Parti and UFOfactory have opened their own infrastructure as open source and platforms, so other organizations can build their own squares too.
+Tools through which Parti and UFOfactory offer their infrastructure and operating know-how as guides and solutions, so other organizations can build their own squares too.
 
 ### 7. UFOfactory — Public-Interest Technology Development
 
@@ -95,14 +95,14 @@ An appropriate-technology solution operated by Parti's sister business UFOfactor
 
 [Mixon](https://mixon.io){: .btn .btn-outline .fs-3 }
 
-### 9. DemosX Open-Source Platform
+### 9. DemosX Citizen-Collaboration Platform Guide
 
 ✅ Implemented
 {: .label .label-green }
 ⭐ Parti Original
 {: .label .label-purple }
 
-DemosX, the citizen-government collaboration platform Parti developed itself, is released as open source — so any government, local authority, or institution can build its own citizen-collaboration platform. With 200+ public forums of operating experience and the operating guide released alongside, anyone can take a proven model and develop it rather than starting from scratch. (Covered in more detail in Category 5, Governance.)
+DemosX, Parti's citizen-collaboration platform model, began in 2017 as open source and an open guide; today it is published as a guide drawn from 200+ public forums. With this guide and the Mixon solution, any government, local authority, or institution can build its own citizen-collaboration platform without starting from scratch. (Covered in more detail in Category 5, Governance.)
 
 [DemosX](https://demosx.org){: .btn .btn-outline .fs-3 }
 
@@ -127,7 +127,7 @@ Consulting that designs and operates the digital transformation of nonprofits, c
 ⭐ UFOfactory Initiative
 {: .label .label-blue }
 
-The experience UFOfactory has accumulated since 2013, building digital infrastructure with more than 1,200 nonprofits, cooperatives, and civic organizations (as of 2017). The broadest digital transformation partnership asset in Korea's nonprofit sector. This experience became the foundation of Mixon and Parti's integrated infrastructure.
+The experience UFOfactory has accumulated since 2013, building digital infrastructure with more than 1,200 nonprofits, cooperatives, and civic organizations (as of 2017). A wide partnership base built alongside the digital transformation of Korea's nonprofit sector. This experience became the foundation of Mixon and Parti's integrated infrastructure.
 
 ---
 
