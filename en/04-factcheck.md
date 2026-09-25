@@ -86,12 +86,12 @@ The first crowdsourced fact-checking platform in Korea, operated 2021–2023 wit
 
 Collaboration with domestic and international fact-checking ecosystems.
 
-### 7. IFCN Global Fact-Checking Fund (Build Support)
+### 7. IFCN Global Fact-Checking Fund Build Grant
 
 ✅ Implemented
 {: .label .label-green }
 
-In 2024, Parti was selected for the Global Fact-Checking Fund's "Build Support" program by the International Fact-Checking Network (IFCN). A case of international recognition for Korea's citizen fact-checking model.
+In 2024, Parti received a Build Grant from the Global Fact-Checking Fund of the International Fact-Checking Network (IFCN). A case of international recognition for Korea's citizen fact-checking model.
 
 ### 8. Media & Journalism Collaboration
 
