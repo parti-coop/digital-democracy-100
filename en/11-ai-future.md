@@ -58,7 +58,7 @@ A space where citizens and workers work hands-on with AI to generate ideas. Thro
 ✅ Implemented
 {: .label .label-green }
 
-Through its work on the AI Democracy Division of the Presidential Council on National Artificial Intelligence Strategy, Parti has brought citizens' perspectives into AI policy-making. It proposes — on the policy stage — the principle that the power to control AI must belong to citizens, and the need for the digital public forums that make this possible.
+Parti's representative, Ohyeon Kweon, serves as a member of the AI Democracy Division of the Presidential Council on National Artificial Intelligence Strategy, bringing citizens' perspectives into AI policy-making and proposing — on the policy stage — the principle that the power to control AI must belong to citizens, and the need for the digital public forums that make this possible.
 
 ### 4. AI Agenda-Finding Public Forums
 
