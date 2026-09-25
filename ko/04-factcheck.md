@@ -86,12 +86,12 @@ Korean Fact-Checkers Community. 빠띠가 자체 운영하는 시민 팩트체�
 
 국내·국제 팩트체크 생태계와의 협력.
 
-### 7. IFCN 글로벌 팩트체크 펀드 빌드 지원
+### 7. IFCN 글로벌 팩트체크 펀드 빌드 그랜트
 
 ✅ 구현 완료
 {: .label .label-green }
 
-2024년 빠띠가 국제팩트체킹네트워크(IFCN, International Fact-Checking Network)의 글로벌 팩트체크 펀드 '빌드 지원' 사업에 선정. 한국 시민 팩트체크 모델이 국제적으로 인정받은 사례.
+2024년 빠띠가 국제팩트체킹네트워크(IFCN, International Fact-Checking Network)의 글로벌 팩트체크 펀드 빌드 그랜트를 받았습니다. 한국 시민 팩트체크 모델이 국제적으로 인정받은 사례.
 
 ### 8. 미디어·언론과의 협력 팩트체크
 
