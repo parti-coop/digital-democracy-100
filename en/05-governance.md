@@ -7,7 +7,7 @@ nav_order: 5
 # 🏛️ Governance & Citizen Assemblies
 {: .no_toc }
 
-The full pipeline from citizen proposals to actual policy through deliberation. Beyond simple proposal-collection windows, Parti has built a multi-layered citizen-collaboration platform model — citizen proposal → deliberation → citizen assembly·voting → policy. The model is released as the open-source platform DemosX, enabling anyone to build their own public square, and has reached the stage where AI-assisted large-scale opinion analysis allows citizens themselves to identify agendas.
+The full pipeline from citizen proposals to actual policy through deliberation. Beyond simple proposal-collection windows, Parti has built a multi-layered citizen-collaboration platform model — citizen proposal → deliberation → citizen assembly·voting → policy. The model is published as the DemosX guide, enabling anyone to build their own public square, and has reached the stage where AI-assisted large-scale opinion analysis allows citizens themselves to identify agendas.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -83,14 +83,14 @@ An operations guide and checklist that institutions adopting a citizen-collabora
 
 [DemosX Guide](https://demosx.org){: .btn .btn-outline .fs-3 }
 
-### 8. Open Source Commitment
+### 8. An Open Model and Operating Guide
 
 ✅ Implemented
 {: .label .label-green }
 ⭐ Parti Original
 {: .label .label-purple }
 
-DemosX is independently developed by Parti but released as open source — anyone can build their own public square with it. Both the code and the operations guide from 200+ public forums are openly available, so institutions don't need to build from scratch but can adopt and adapt a validated model. The conviction that the citizens' square belongs to citizens, embodied in open code and shared know-how.
+The DemosX model was first released in 2017, as open source and an open guide, through Parti's collaboration with the Seoul Metropolitan Government. Openness alone gave no way to share maintenance costs, and small organizations that wanted to adopt it had no technical staff to build it themselves, so Parti later moved it to a service. What is open today is the DemosX guide, drawn from 200+ public forums; Mixon is the solution for building a platform along that guide. Institutions don't need to start from scratch — they can adopt a validated model and adapt it to their own context. The conviction that the citizens' square belongs to citizens, carried forward by opening the model and the know-how.
 
 ### 9. Citizen Policy Lab
 
